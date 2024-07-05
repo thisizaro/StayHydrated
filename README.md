@@ -2,7 +2,7 @@
 
 ## What's This?
 
-StayHydrated is your new best buddy who won’t let you dry up! This Python script gives you a nudge to chug some H2O at regular intervals. Stay hydrated, my friend! I made this script only for you!
+StayHydrated is your new best buddy who won’t let you get dry!😏 This Python script gives you a nudge to chug some H2O at regular intervals. Stay hydrated, my friend! I made this script only for you!
 
 JUST KIDDING... I FORGOT TO DRINK WATER FOR LAST 6 HOURS WORKING ON SOME STUPID OPENCV PROJECT. 😭😭😭
 So I decided to spend 8 minutes 37 seconds on another python script and this is the result.
