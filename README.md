@@ -17,7 +17,7 @@ So I decided to spend 8 minutes 37 seconds on another python script and this is 
 
 - Python 3.x (if you don’t have it, are you even a programmer?)
 - `plyer` library for basic notifications (cross-platform love😏❤️)
-- `win10toast` library for Windows users who want the deluxe experience(Heh lol jk... Just gave u the clue code it yourself!)
+- `win10toast` library for Windows users who want the deluxe experience(Heh lol jk... I gave u the clue, u code it yourself!)
 
 ## Installation (aka Making It Work)
 
