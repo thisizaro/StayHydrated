@@ -2,9 +2,9 @@
 
 ## What's This?
 
-StayHydrated is your new best buddy who won’t let you dry up! This Python script gives you a nudge to chug some H2O at regular intervals. Stay hydrated, my friend! I made this script only for you!
+StayHydrated is your new best buddy who won’t let you get dry!😏 This Python script gives you a nudge to chug some H2O at regular intervals. Stay hydrated, my friend! I made this script only for you!
 
-JUST KIDDING... I FORGOT TO DRINK WATER FOR LAST 6 HOURS WORKING ON SOME STUPID OPENCV PROJECT. 😭😭😭
+JUST KIDDING... I FORGOT TO DRINK WATER FOR LAST 8 HOURS WORKING ON SOME STUPID OPENCV PROJECT. 😭😭😭
 So I decided to spend 8 minutes 37 seconds on another python script and this is the result.
 
 ## Features
@@ -17,7 +17,7 @@ So I decided to spend 8 minutes 37 seconds on another python script and this is 
 
 - Python 3.x (if you don’t have it, are you even a programmer?)
 - `plyer` library for basic notifications (cross-platform love😏❤️)
-- `win10toast` library for Windows users who want the deluxe experience(Heh lol jk... Just gave u the clue code it yourself!)
+- `win10toast` library for Windows users who want the deluxe experience(Heh lol jk... I gave u the clue, u code it yourself!)
 
 ## Installation (aka Making It Work)
 
